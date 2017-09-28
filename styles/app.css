@@ -5,6 +5,8 @@
   top: 10px;
   right: 10px;
   width: 100px;
+  height: 100px;
+  background-image: url('img/devLogo.png')
 }
 .jumbotron {
     background: url('http://ugmonk.com/wp-content/uploads/2016/03/category-clothing-1.jpg') center no-repeat;
